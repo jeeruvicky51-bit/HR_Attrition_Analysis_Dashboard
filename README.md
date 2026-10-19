@@ -4,6 +4,13 @@
 
 ---
 
+
+
+![HR Attrition Analysis Dashboard](Snapshot of HR Dashboard.png)
+
+
+
+
 ## 📌 Project Overview
 
 Employee attrition is one of the most expensive challenges organizations face. High employee turnover leads to increased hiring costs, productivity loss, knowledge drain, and project delays.
