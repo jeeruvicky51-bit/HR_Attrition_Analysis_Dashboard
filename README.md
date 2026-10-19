@@ -6,8 +6,8 @@
 
 
 
-![HR Attrition Analysis Dashboard](Snapshot of HR Dashboard.png)
 
+![HR Attrition Analysis Dashboard](Snapshot of HR Dashboard.png)
 
 
 
